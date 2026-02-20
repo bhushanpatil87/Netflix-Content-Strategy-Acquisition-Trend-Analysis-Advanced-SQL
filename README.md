@@ -1,46 +1,77 @@
-📊 Netflix Content Acquisition Trends
-🔎 Project Overview
+<h1 align="center">📊 Netflix Content Acquisition Trends</h1>
 
-This project performs exploratory data analysis (EDA) on a 6,000+ record Netflix dataset to uncover trends in content acquisition, genre distribution, country contributions, and release patterns.
+<p align="center">
+  Exploratory Data Analysis (EDA) on 6,000+ Netflix records using Python
+</p>
 
-🛠 Tools & Technologies
+<hr>
 
-Python
+<h2>🔎 Project Overview</h2>
 
-Pandas
+<p>
+This project performs <strong>Exploratory Data Analysis (EDA)</strong> on a 
+<strong>6,000+ record Netflix dataset</strong> to uncover trends in content acquisition, 
+genre distribution, country contributions, and release patterns.
+</p>
 
-Matplotlib
+<hr>
 
-SQL-style filtering & aggregation logic
+<h2>🛠 Tools & Technologies</h2>
 
-📌 Key Objectives
+<ul>
+  <li>🐍 Python</li>
+  <li>📊 Pandas</li>
+  <li>📈 Matplotlib</li>
+  <li>🧠 SQL-style Filtering & Aggregation Logic</li>
+</ul>
 
-Clean and standardize inconsistent data fields
+<hr>
 
-Analyze content trends by country and release year
+<h2>📌 Key Objectives</h2>
 
-Explore genre popularity and content type distribution
+<ul>
+  <li>Clean and standardize inconsistent data fields</li>
+  <li>Analyze content trends by country and release year</li>
+  <li>Explore genre popularity and content type distribution</li>
+  <li>Visualize insights using charts</li>
+</ul>
 
-Visualize insights using charts
+<hr>
 
-🧹 Data Cleaning
+<h2>🧹 Data Cleaning</h2>
 
-Handled missing values (country, director)
+<ul>
+  <li>Handled missing values (country, director)</li>
+  <li>Converted date fields for accurate analysis</li>
+  <li>Removed duplicate records</li>
+  <li>Transformed duration column for proper numeric sorting</li>
+</ul>
 
-Converted date fields
+<hr>
 
-Removed duplicates
+<h2>📈 Key Insights</h2>
 
-Transformed duration column for proper sorting
+<ul>
+  <li>Identified top contributing countries</li>
+  <li>Observed growth in content over recent years</li>
+  <li>Analyzed Movies vs TV Shows distribution</li>
+  <li>Found most common genres on Netflix</li>
+</ul>
 
-📈 Key Insights
+<hr>
 
-Identified top contributing countries
+<h2>📊 Visualizations</h2>
 
-Observed growth in content over recent years
+<p>
+✔ Bar Chart – Top Countries<br>
+✔ Pie Chart – Movies vs TV Shows<br>
+✔ Pie Chart – Top Genres<br>
+✔ Line Chart – Content Growth Over Years<br>
+✔ Histogram – Movie Duration Distribution
+</p>
 
-Analyzed Movies vs TV Shows distribution
+<hr>
 
-Found most common genres on Netflix
-
-📊 Visualizations
+<p align="center">
+  ⭐ If you found this project interesting, consider giving it a star!
+</p>
