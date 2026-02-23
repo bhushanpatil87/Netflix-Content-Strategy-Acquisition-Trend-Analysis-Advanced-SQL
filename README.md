@@ -63,12 +63,26 @@ genre distribution, country contributions, and release patterns.
 <h2>📊 Visualizations</h2>
 
 <p>
-✔ Bar Chart – Top Countries<br>
-✔ Pie Chart – Movies vs TV Shows<br>
-✔ Pie Chart – Top Genres<br>
-✔ Line Chart – Content Growth Over Years<br>
+✔ Bar Chart – Top Countries
+  <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/e5c66aea-ac02-4f64-b302-fa9e38c3cfa3" />
+  <br>
+✔ Bar Chart – No. of movies by years
+  <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/c3a257b8-16c2-43d4-8598-de434e23f281" />
+  <br>
+✔ Pie Chart – Movies vs TV Shows
+  <img width="397" height="411" alt="image" src="https://github.com/user-attachments/assets/2af11233-df54-45a8-b3ac-39066b83c379" />
+<br>
+✔ Pie Chart – Top Genres
+  <img width="645" height="411" alt="image" src="https://github.com/user-attachments/assets/3a8366da-0e38-4967-bb41-4997ba8f08f9" />
+<br>
+✔ Line Chart – Content Growth Over Years
+  <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/ac8e855c-cf22-42c1-a4fb-8df3d981ed9a" />
+<br>
 ✔ Histogram – Movie Duration Distribution
+  <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/3bb26cce-45ab-482f-b894-073a86686153" />
+
 </p>
+
 
 <hr>
 
